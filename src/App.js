@@ -8,6 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="CADDO" />
         <p>COMING SOON</p>
+        <a 
+          className="signup" 
+          target="_blank"
+          href="https://mailchi.mp/4242cf928245/caddo-sign-up" rel="noreferrer">SIGN UP</a>
         <div className="social-icons">
           <div className="social yt">
             <SocialMediaIconsReact

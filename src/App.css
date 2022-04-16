@@ -18,11 +18,23 @@
   color: #fff;
 }
 
+.signup {
+  background-color: #6B6956;
+  width: 30%;
+  border: 0;
+  padding: 10px 0;
+  margin: 5px 0;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 .social-icons {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  margin: 10px 0;
+  margin-top: 40px;
 }
 
 
